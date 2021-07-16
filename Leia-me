@@ -1,0 +1,6 @@
+python qual_cor.py -i colorida.jpg
+python qual_cor.py -i colorida2.jpg
+python qual_cor.py -i colorida3.jpg
+
+dar double click em qualquer parte da foto e ele vai mostrar a cor
+para fechar abre a janela do terminal e Ctrl+C
